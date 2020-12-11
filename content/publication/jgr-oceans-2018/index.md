@@ -26,7 +26,8 @@ abstract: "The RAPID mooring array at 26°N in the Atlantic has been observing t
 summary: Using satellite bottom pressure data from the Gravity Recovery and Climate Experiment (GRACE) to correct for low-frequency instrument drift of in situ bottom pressure recorders. The external transport estimated from the adjusted bottom pressures was compared against the RAPID-estimated compensation transport to assess this technique.
 
 tags:
-- Source Themes
+- AMOC
+- GRACE
 featured: false
 
 # links:
@@ -61,14 +62,5 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+
 ---
-
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
